@@ -41,9 +41,9 @@ MS Excel
 6. In a year there is only 3 months are generating highest peak in revenue.
 
 # Results -
-Clean the overall unstrctured data to do accurate analysis.
-Helped to identify top selling products and low selling products.
-Identified the categories & sub-categories that generating more profit.
-Highlighted monthly or day-wise sales trends.
-Created interactive dashboard to present visuals.
+1. Clean the overall unstrctured data to do accurate analysis.
+2. Helped to identify top selling products and low selling products.
+3. Identified the categories & sub-categories that generating more profit.
+4. Highlighted monthly or day-wise sales trends.
+5. Created interactive dashboard to present visuals.
 

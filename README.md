@@ -9,8 +9,8 @@ Analyze overall unstructured sales data and make interactive dashboard to showca
 and support decision making.
 
 # Objective
-1. Analyze overall sales.
-2. Create KPI's showing total sales, total profit, average discount
+1. Clean the unstructured data.
+2. Analyze the overall sales & create KPI's.
 3. Identify top selling and low-selling products.
 4. Showcase the sales among all cities & region.
 5. Build and interative dashboard.

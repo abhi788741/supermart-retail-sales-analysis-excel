@@ -5,15 +5,15 @@ This project analyzes the supermart retail sales data using MS Excel to uncover 
 This project helps me to showcase my Excel skills for data analysis, reporting and problem solving.
 
 # Problem Statement -
-Analyze overall unstructured sales data and make interactive dashboard to showcase insights
-and support decision making.
+Analyze overall unstructured sales data and make interactive dashboard to showcase insights and support decision making.
 
 # Objective
-1. Clean the unstructured data.
+1. Clean & transform the unstructured data.
 2. Analyze the overall sales & create KPI's.
 3. Identify top selling and low-selling products.
 4. Showcase the sales among all cities & region.
-5. Build and interative dashboard.
+5. Identify the sales trend by time.
+6. Build and interative dashboard.
 
 # 🛠️ Tool Used -
 MS Excel

@@ -26,7 +26,7 @@ MS Excel
 
 # Analysis Performed -
 1. Performed Vlookup & Index-match functions
-2. Create KPIs
+2. Created KPIs
 3. Category & Sub-category wise sales analysis
 4. Year, month & day wise revenue trend analysis
 5. Sales by city & region
